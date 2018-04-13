@@ -16,6 +16,7 @@
         <springsecurity.version>4.0.4.RELEASE</springsecurity.version>
         <hibernate.validator.version>5.1.2.Final</hibernate.validator.version>
         <javax.validation.version>1.1.0.Final</javax.validation.version>
+        <failOnMissingWebXml>false</failOnMissingWebXml>
     </properties>
 
     <dependencies>
